@@ -1,0 +1,7 @@
+print("Hello....")
+print('Hey....')
+print(365185)
+print(True)
+print('False')
+print("45758754")
+print(10+20+30)
